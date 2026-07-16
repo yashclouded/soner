@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: helvetica;
+    overflow: hidden;
+    background: #000000;
+}
+.info{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    color: #ffffff;
+}
+.info h1{
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+.info p {
+  margin-top: 8px;
+  color: #ccc;
+}
